@@ -11,9 +11,9 @@ namespace TinhToanPhanSo
             Console.Clear();
             Console.WriteLine("Tính Toán Phân Số");
             Console.WriteLine("1. Nhập Phân Số");
-            Console.WriteLine("2. Hiện Tất Cả");
-            Console.WriteLine("3. Phép Tính");
-            Console.WriteLine("4. So Sánh");
+            Console.WriteLine("3. Hiện Tất Cả");
+            Console.WriteLine("4. Phép Tính");
+            Console.WriteLine("5. So Sánh");
             Console.WriteLine("0. Thoát Chương Trình");
             Console.WriteLine("Nhập Chức Năng");
             int iChucNang = 0;
@@ -34,17 +34,22 @@ namespace TinhToanPhanSo
                             ChucNang.TaoPhanSo(arrPS);
                             break;
                         }
-                    case 2: // Hiện Hết
+                    case 2: //Update
+                        {
+                            ChucNang.UpdatePS(arrPS);
+                            break;
+                        }
+                    case 3: // Hiện Hết
                         {
                             ChucNang.HienPhanSo(arrPS);
                             break;
                         }
-                    case 3: //Phép Tính
+                    case 4: //Phép Tính
                         {
                             ChucNang.PhepTinh(arrPS);
                             break;
                         }
-                    case 4: //So Sánh
+                    case 5: //So Sánh
                         {
                             ChucNang.SoSanh(arrPS);
                             break;
