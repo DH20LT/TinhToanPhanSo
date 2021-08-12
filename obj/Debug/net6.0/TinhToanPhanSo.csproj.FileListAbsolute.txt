@@ -1,0 +1,16 @@
+D:\GitHub\DH20LT\TinhToanPhanSo\obj\Debug\net6.0\TinhToanPhanSo.csproj.AssemblyReference.cache
+D:\GitHub\DH20LT\TinhToanPhanSo\obj\Debug\net6.0\TinhToanPhanSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\DH20LT\TinhToanPhanSo\obj\Debug\net6.0\TinhToanPhanSo.AssemblyInfoInputs.cache
+D:\GitHub\DH20LT\TinhToanPhanSo\obj\Debug\net6.0\TinhToanPhanSo.AssemblyInfo.cs
+D:\GitHub\DH20LT\TinhToanPhanSo\obj\Debug\net6.0\TinhToanPhanSo.ImplicitNamespaceImports.cs
+D:\GitHub\DH20LT\TinhToanPhanSo\obj\Debug\net6.0\TinhToanPhanSo.csproj.CoreCompileInputs.cache
+D:\GitHub\DH20LT\TinhToanPhanSo\bin\Debug\net6.0\TinhToanPhanSo.exe
+D:\GitHub\DH20LT\TinhToanPhanSo\bin\Debug\net6.0\TinhToanPhanSo.deps.json
+D:\GitHub\DH20LT\TinhToanPhanSo\bin\Debug\net6.0\TinhToanPhanSo.runtimeconfig.json
+D:\GitHub\DH20LT\TinhToanPhanSo\bin\Debug\net6.0\TinhToanPhanSo.dll
+D:\GitHub\DH20LT\TinhToanPhanSo\bin\Debug\net6.0\ref\TinhToanPhanSo.dll
+D:\GitHub\DH20LT\TinhToanPhanSo\bin\Debug\net6.0\TinhToanPhanSo.pdb
+D:\GitHub\DH20LT\TinhToanPhanSo\obj\Debug\net6.0\TinhToanPhanSo.dll
+D:\GitHub\DH20LT\TinhToanPhanSo\obj\Debug\net6.0\ref\TinhToanPhanSo.dll
+D:\GitHub\DH20LT\TinhToanPhanSo\obj\Debug\net6.0\TinhToanPhanSo.pdb
+D:\GitHub\DH20LT\TinhToanPhanSo\obj\Debug\net6.0\TinhToanPhanSo.genruntimeconfig.cache
