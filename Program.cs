@@ -11,6 +11,7 @@ namespace TinhToanPhanSo
             Console.Clear();
             Console.WriteLine("Tính Toán Phân Số");
             Console.WriteLine("1. Nhập Phân Số");
+            Console.WriteLine("2. Cập Nhật Phân Số");
             Console.WriteLine("3. Hiện Tất Cả");
             Console.WriteLine("4. Phép Tính");
             Console.WriteLine("5. So Sánh");
