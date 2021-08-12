@@ -184,6 +184,32 @@ namespace TinhToanPhanSo
             return status;
         }
 
+        //Lớn Hơn or Bằng >=
+        public static bool operator >= (PhanSo a, PhanSo b)
+        {
+            bool status = false;
+            QuyDongMau(a, b);
+            if (a.getTuSo() >= b.getTuSo())
+            {
+                Console.WriteLine("{0} >= {1}", a, b);
+            }
+            else
+                Console.WriteLine("{0} không >= {1}", a, b);
+            return status;
+        }
+        //Nhỏ Hơn or Bằng <=
+        public static bool operator <=(PhanSo a, PhanSo b)
+        {
+            bool status = false;
+            QuyDongMau(a, b);
+            if (a.getTuSo() <= b.getTuSo())
+            {
+                Console.WriteLine("{0} <= {1}", a, b);
+            }
+            else
+                Console.WriteLine("{0} không <= {1}", a, b);
+            return status;
+        }
         public override bool Equals(object obj)
         {
             if (ReferenceEquals(this, obj))
